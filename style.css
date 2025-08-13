@@ -6,6 +6,15 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* Add this to your style.css */
+.subtitle {
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #666;
+    margin-top: 3px;
+    text-align: center;
+}
+
 body {
     background-color: #f4f4f4;
     color: #333;
@@ -92,13 +101,6 @@ footer p {
     text-align: center; /* Center align it if you prefer */
 }
 
-/* Add this to your style.css */
-.subtitle {
-    font-size: 0.8em;
-    font-weight: normal;
-    color: #666;
-    margin-top: 3px;
-    text-align: center;
-}
+
 
 
