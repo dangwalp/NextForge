@@ -98,7 +98,7 @@ footer p {
     color: #444; /* A lighter gray for better readability */
     margin-bottom: 30px; /* Increased gap below this text */
     line-height: 1.6; /* Adjust line height for readability */
-    text-align: center; /* Center align it if you prefer */
+    text-align: left; /* Center align it if you prefer */
 }
 
 
