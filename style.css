@@ -8,11 +8,11 @@
 
 /* Add this to your style.css */
 .subtitle {
-    font-size: 0.8em;
+    font-size: 1.0em;
     font-weight: normal;
     color: #666;
-    margin-top: 3px;
-    text-align: center;
+    margin-top: 2px;
+    text-align: left;
 }
 
 body {
