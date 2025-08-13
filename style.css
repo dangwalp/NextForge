@@ -80,3 +80,25 @@ footer {
 footer p {
     font-size: 1em;
 }
+
+/* Style for the 'Below are a few articles...' text */
+.intro-text {
+    font-family: 'Roboto', sans-serif; /* Change this to your preferred font */
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #444; /* A lighter gray for better readability */
+    margin-bottom: 30px; /* Increased gap below this text */
+    line-height: 1.6; /* Adjust line height for readability */
+    text-align: center; /* Center align it if you prefer */
+}
+
+/* Add this to your style.css */
+.subtitle {
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #666;
+    margin-top: 5px;
+    text-align: center;
+}
+
+
